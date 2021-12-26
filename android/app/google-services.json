@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "158209725230",
+    "project_id": "elmanhaj-test",
+    "storage_bucket": "elmanhaj-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158209725230:android:53f9a3f1798444e9dca0bf",
+        "android_client_info": {
+          "package_name": "com.app.adstest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158209725230-4cedomlijcmol68sspj38bpoe72e1sah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAERprRgeGTS1yLDkDDBA9bSYM0NVX7yP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158209725230-4cedomlijcmol68sspj38bpoe72e1sah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6460577785255164~4085302864"
+    }
+  ],
+  "configuration_version": "1"
+}
